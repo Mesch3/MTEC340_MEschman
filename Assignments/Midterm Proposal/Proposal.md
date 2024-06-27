@@ -12,9 +12,11 @@ My game is, as expected, inspired by idle/clicker games like Cookie Clicker, Adv
 - Powerups that give a temporary boost, a one time bonus, or a less than desirable surprise
 - Simple BGM music changing between states when you are in vs out of the zone
 - A "prestige" system allowing the player to reset their progress in exchange for more valuable upgrades, possibly introducing a secondary currency
-- Simple obstacles that get in the player's way or objects that influence the movement of the zone
+- Simple obstacles that get in the player's way or objects that influence the movement of the zone (may require a visual indicator if the zone leaves the player's vision)
 ### Best Outcome
 - Growing and shrinking screen size and scaling all other sprites to fit the changed scale of the screen
 - A "prestige" system allowing the player to reset their progress in exchange for more valuable upgrades, possibly introducing alternate currencies
 - Control schemes allowing for both keyboard and mouse, just keyboard, and just mouse
 - Dangerous obstacles that punish the player if they touch, causing a death screen and the loss of some points
+- "FPS Mode" using mouse controls, the player follows the mouse position and the zone changes position quickly acting like an FPS aim trainer
+- "Hubris" punishments for spending too much on one upgrade
